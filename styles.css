@@ -1,0 +1,57 @@
+img {
+  padding-top:150px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+display:block;
+text-align: center;
+padding-top: 25px;
+
+}
+
+input {
+  height:35px;
+  width:500px;
+-webkit-border-radius:0;
+-webkit-box-shadow:none;
+}
+
+li {
+    float:right
+
+}
+
+li a {
+  color:rgba(0,0,0,0.87);
+  font-size: 13px;
+  text-decoration: none;
+  text-align:center;
+  padding:18px 10px;
+
+}
+#btn-signin {
+  background-color:#4285f4;
+  border:1px solid #4285f4;
+  border-radius:2px;
+  color:#fff;
+  font-weight: bold;
+  display:inline-block;
+  line-height: 28px;
+  margin-right:30px;
+  padding:0 12px;
+}
+.topnav {
+list-style-type: none;
+margin:0;
+padding:10;
+overflow:hidden;
+
+}
+
+#srbtn {
+  margin-top:25px;
+
+}
